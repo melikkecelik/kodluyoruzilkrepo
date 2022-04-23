@@ -5,7 +5,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ## Installation
 Öncelikle projeyi clonelayın. (https://github.com/melikkecelik/kodluyoruzilkrepo.git)
 
-'''
+''' vs code
 print (git clone https://github.com/melikkecelik/kodluyoruzilkrepo.git)
 '''
 
